@@ -1,7 +1,7 @@
 title: Ning's Personal Website
 author: Ning
 email: 2592455945@qq.com
-description: A tranquil expanse on the vast internet.
+description: Where Ning writes some of the more "serious" blogs.
 
 # social links
 twitter_username: Frank_N1ng # DO NOT include the @ character, or else the build will fail!
@@ -10,3 +10,5 @@ github_username:  Frank-N1ng # DO NOT include the @ character, or else the build
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+markdown: kramdown
